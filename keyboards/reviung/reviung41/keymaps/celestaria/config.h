@@ -1,5 +1,7 @@
 #pragma once
 
+#define DYNAMIC_KEYMAP_LAYER_COUNT 10
+
 #define VIAL_KEYBOARD_UID {0x40, 0x4E, 0xA1, 0x89, 0x23, 0x14, 0x82, 0x88}
 
 // Unlock with top left key (row 0, column 0) and
