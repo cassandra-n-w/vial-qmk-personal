@@ -6,6 +6,8 @@ NKRO_ENABLE = yes
 CONSOLE_ENABLE = no
 LTO_ENABLE = yes
 
+VIALRGB_ENABLE = yes
+
 ifndef CONVERT_TO
 	# Disable QMK Settings when using a ProMicro to reduce size:
 	QMK_SETTINGS = no

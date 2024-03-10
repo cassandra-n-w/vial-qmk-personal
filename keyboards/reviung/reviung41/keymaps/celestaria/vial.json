@@ -2,7 +2,7 @@
     "name": "reviung41",
     "vendorId": "0x7807",
     "productId": "0xDCCB",
-    "lighting": "qmk_rgblight",
+    "lighting": "vialrgb",
     "matrix": { "rows": 7, "cols": 6 },
     "layouts": {
         "keymap": [
